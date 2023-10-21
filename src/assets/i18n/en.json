@@ -4,7 +4,7 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "MUFFEEZ_CV.pdf",
+    "Header.cvName": "3_years_exp_anwar_angular_dev_resume.pdf",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
@@ -122,8 +122,8 @@
         {
             "Title": "Covid Tracker",
             "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-            "ghLink": "https://github.com/mufeez1/carona19-tracker",
-            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "ghLink": "https://github.com/MdMozammilAnwar/",
+            "demoLink": "https://github.com/MdMozammilAnwar",
             "Technologies": [
                 "Angular",
                 "RxJs",
@@ -134,7 +134,7 @@
         {
             "Title": "Lets Chat",
             "Description": "A real-time chat application. Another fun side project :)",
-            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "ghLink": "https://github.com/MdMozammilAnwar",
             "Technologies": [
                 "React",
                 "SASS",
@@ -147,8 +147,8 @@
         {
             "Title": "Quiz App",
             "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/mufeez1/quizapp",
-            "demoLink": "https://github.com/mufeez1/quizapp",
+            "ghLink": "https://github.com/MdMozammilAnwar",
+            "demoLink": "https://github.com/MdMozammilAnwar",
             "Technologies": [
                 "React",
                 "SASS",
@@ -160,8 +160,8 @@
         {
             "Title": "JWT Integration",
             "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-            "ghLink": "https://github.com/mufeez1/node-jwt",
-            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "ghLink": "https://github.com/MdMozammilAnwar",
+            "demoLink": "https://github.com/MdMozammilAnwar",
             "Technologies": [
                 "React",
                 "JWT",
